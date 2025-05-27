@@ -39,7 +39,7 @@ function App() {
   }, []);
 
   return (
-    <div className="font-sans bg-black"> {/* Ensure main background is black if sections don't cover everything */}
+    <div className="font-sans bg-black">
       <Navbar />
       <Hero />
       <About />

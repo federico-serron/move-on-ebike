@@ -18,7 +18,7 @@ const navLinks = [
     <nav className="bg-black bg-opacity-80 backdrop-blur-md text-white p-4 fixed w-full z-50 shadow-lg">
       <div className="container mx-auto flex justify-between items-center">
         <a href="#home" className="text-3xl font-bold text-yellow-400">
-          MOVE<span className="text-white">ONE</span>
+          MOVE<span className="text-white">ON</span>Ebike
         </a>
         <div className="hidden md:flex space-x-6">
           {navLinks.map((link) => (

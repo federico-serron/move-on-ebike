@@ -23,8 +23,8 @@ const Hero = () => {
           </div>
           <div className="md:w-1/2 mt-10 md:mt-0">
             <img 
-              src="https://placehold.co/700x500/000000/facc15?text=MOVE+ONE+Bike" 
-              alt="Image of a Move One electric bike" 
+              src="https://placehold.co/700x500/000000/facc15?text=MOVE+ON+EBike" 
+              alt="Image of a Move On electric bike" 
               className="rounded-lg shadow-2xl mx-auto"
               onError={(e) => e.target.src='https://placehold.co/700x500/000000/facc15?text=Image+Load+Error'}
             />
